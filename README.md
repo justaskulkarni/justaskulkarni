@@ -83,7 +83,7 @@
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justaskulkarni" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justaskulkarni&theme=react-dark" width="100%"/>
 </p>
 
 <hr>
