@@ -24,6 +24,8 @@
   <br>
   💬 Ask me anything about Web Development and Computer Science Fundamentals
   <br>
+  ⚡ Fun fact: Software bugs are impossible to detect by anyone except the end user
+  <br>
   📫 How to reach me: <a href="mailto: dcadityakulkarni@gmail.com">dcadityakulkarni@gmail.com</a>
 </p>
 
@@ -71,7 +73,7 @@
 </p>
 
 <!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**justaskulkarni/justaskulkarni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
