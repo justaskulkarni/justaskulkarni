@@ -20,9 +20,9 @@
   <br>
   👯 I’m looking to collaborate on MERN Stack Projects
   <br>
-  📚 Currently, I'm improving my Data Structures and Algorithms (DSA) Skills
+  📚 Currently, I'm learning Blockchain Technology
   <br>
-  💬 Ask me anything about Web Development and Computer Science Fundamentals
+  💬 Ask me anything about Web Development and Blockchain Technology
   <br>
   ⚡ Fun fact: Software bugs are impossible to detect by anyone except the end user
   <br>
