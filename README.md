@@ -20,7 +20,7 @@
   <br>
   👯 I’m looking to collaborate on MERN Stack Projects
   <br>
-  📚 Currently, I'm learning Blockchain Technology
+  📚 Currently, I'm learning Web3.0
   <br>
   💬 Ask me anything about Web Development and Blockchain Technology
   <br>
