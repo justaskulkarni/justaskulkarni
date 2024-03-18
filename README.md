@@ -16,7 +16,7 @@
   😄 Pronouns: He/Him
   <br>
   <br>
-  🔬 An Information Technology Sophomore at Veermata Jijabai Technological Institute (VJTI), Mumbai
+  🔬 An Information Technology Pre-Final-Year Student at Veermata Jijabai Technological Institute (VJTI), Mumbai
   <br>
   👯 I’m looking to collaborate on MERN Stack Projects
   <br>
