@@ -47,6 +47,9 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="MongoDB" height="25" src="images/icons8-mongodb.svg"></code>
+  <code><img title="Solidity" height="25" src="images/light-solidity-svgrepo-com.svg"></code>
+  <code><img title="NextJS" height="25" src="images/nextjs-svgrepo-com.svg"></code>
+  <code><img title="Hardhat" height="25" src="images/hardhat-icon.svg"></code>
 </p>
 <hr>
 
