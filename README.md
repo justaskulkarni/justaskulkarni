@@ -16,13 +16,13 @@
   😄 Pronouns: He/Him
   <br>
   <br>
-  🔬 An Information Technology Sophomore at Veermata Jijabai Technological Institute (VJTI), Mumbai
+  🔬 An Information Technology Pre-Final-Year Student at Veermata Jijabai Technological Institute (VJTI), Mumbai
   <br>
   👯 I’m looking to collaborate on MERN Stack Projects
   <br>
-  📚 Currently, I'm improving my Data Structures and Algorithms (DSA) Skills
+  📚 Currently, I'm learning Web3.0
   <br>
-  💬 Ask me anything about Web Development and Computer Science Fundamentals
+  💬 Ask me anything about Web Development and Blockchain Technology
   <br>
   ⚡ Fun fact: Software bugs are impossible to detect by anyone except the end user
   <br>
