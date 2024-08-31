@@ -18,9 +18,7 @@
   <br>
   🔬 An Information Technology Pre-Final-Year Student at Veermata Jijabai Technological Institute (VJTI), Mumbai
   <br>
-  👯 I’m looking to collaborate on MERN Stack Projects
-  <br>
-  📚 Currently, I'm learning Web3.0
+  👯 I’m looking to collaborate on Web 2.0 and Web 3.0 Projects
   <br>
   💬 Ask me anything about Web Development and Blockchain Technology
   <br>
